@@ -15,6 +15,9 @@
 		19BEB75A25FF9FF200A413DD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 19BEB75825FF9FF200A413DD /* LaunchScreen.storyboard */; };
 		19BEB76525FF9FF200A413DD /* todoMovies_DesafioTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19BEB76425FF9FF200A413DD /* todoMovies_DesafioTests.swift */; };
 		19BEB77025FF9FF200A413DD /* todoMovies_DesafioUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19BEB76F25FF9FF200A413DD /* todoMovies_DesafioUITests.swift */; };
+		801717CD48D68704CDCFFDCA /* Pods_todoMovies_Desafio_todoMovies_DesafioUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F276F4B9518428D30E282FE /* Pods_todoMovies_Desafio_todoMovies_DesafioUITests.framework */; };
+		A5FF8F88250F24DCCB0A0051 /* Pods_todoMovies_DesafioTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B7FD04F6AEE1404CAC941EE8 /* Pods_todoMovies_DesafioTests.framework */; };
+		C7A027D38D4DDF474BB6BB0E /* Pods_todoMovies_Desafio.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C7CC0EF51B496AF139DD8E12 /* Pods_todoMovies_Desafio.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0F276F4B9518428D30E282FE /* Pods_todoMovies_Desafio_todoMovies_DesafioUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_todoMovies_Desafio_todoMovies_DesafioUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		19BEB74A25FF9FEF00A413DD /* todoMovies-Desafio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "todoMovies-Desafio.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		19BEB74D25FF9FEF00A413DD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		19BEB74F25FF9FEF00A413DD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +53,14 @@
 		19BEB76B25FF9FF200A413DD /* todoMovies-DesafioUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "todoMovies-DesafioUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		19BEB76F25FF9FF200A413DD /* todoMovies_DesafioUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = todoMovies_DesafioUITests.swift; sourceTree = "<group>"; };
 		19BEB77125FF9FF200A413DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A700DFF9B97E7C3756BF0131 /* Pods-todoMovies-DesafioTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-todoMovies-DesafioTests.release.xcconfig"; path = "Target Support Files/Pods-todoMovies-DesafioTests/Pods-todoMovies-DesafioTests.release.xcconfig"; sourceTree = "<group>"; };
+		A7C8A221339F90F71CCAF469 /* Pods-todoMovies-Desafio-todoMovies-DesafioUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-todoMovies-Desafio-todoMovies-DesafioUITests.debug.xcconfig"; path = "Target Support Files/Pods-todoMovies-Desafio-todoMovies-DesafioUITests/Pods-todoMovies-Desafio-todoMovies-DesafioUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		B7FD04F6AEE1404CAC941EE8 /* Pods_todoMovies_DesafioTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_todoMovies_DesafioTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BA3179FC0FD1C801E0DFF6FF /* Pods-todoMovies-Desafio.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-todoMovies-Desafio.release.xcconfig"; path = "Target Support Files/Pods-todoMovies-Desafio/Pods-todoMovies-Desafio.release.xcconfig"; sourceTree = "<group>"; };
+		C7CC0EF51B496AF139DD8E12 /* Pods_todoMovies_Desafio.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_todoMovies_Desafio.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C87690FDEEB280BFA8639106 /* Pods-todoMovies-DesafioTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-todoMovies-DesafioTests.debug.xcconfig"; path = "Target Support Files/Pods-todoMovies-DesafioTests/Pods-todoMovies-DesafioTests.debug.xcconfig"; sourceTree = "<group>"; };
+		CDE5B39076F9BCF278A738B8 /* Pods-todoMovies-Desafio-todoMovies-DesafioUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-todoMovies-Desafio-todoMovies-DesafioUITests.release.xcconfig"; path = "Target Support Files/Pods-todoMovies-Desafio-todoMovies-DesafioUITests/Pods-todoMovies-Desafio-todoMovies-DesafioUITests.release.xcconfig"; sourceTree = "<group>"; };
+		D1C2F628A29859FD1CB13440 /* Pods-todoMovies-Desafio.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-todoMovies-Desafio.debug.xcconfig"; path = "Target Support Files/Pods-todoMovies-Desafio/Pods-todoMovies-Desafio.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +68,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7A027D38D4DDF474BB6BB0E /* Pods_todoMovies_Desafio.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +76,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A5FF8F88250F24DCCB0A0051 /* Pods_todoMovies_DesafioTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,6 +84,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				801717CD48D68704CDCFFDCA /* Pods_todoMovies_Desafio_todoMovies_DesafioUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -83,6 +98,8 @@
 				19BEB76325FF9FF200A413DD /* todoMovies-DesafioTests */,
 				19BEB76E25FF9FF200A413DD /* todoMovies-DesafioUITests */,
 				19BEB74B25FF9FEF00A413DD /* Products */,
+				CFE6D7596D9F68C131F13485 /* Pods */,
+				D0A9C27628F50ADA3A197C30 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -128,6 +145,30 @@
 			path = "todoMovies-DesafioUITests";
 			sourceTree = "<group>";
 		};
+		CFE6D7596D9F68C131F13485 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				D1C2F628A29859FD1CB13440 /* Pods-todoMovies-Desafio.debug.xcconfig */,
+				BA3179FC0FD1C801E0DFF6FF /* Pods-todoMovies-Desafio.release.xcconfig */,
+				A7C8A221339F90F71CCAF469 /* Pods-todoMovies-Desafio-todoMovies-DesafioUITests.debug.xcconfig */,
+				CDE5B39076F9BCF278A738B8 /* Pods-todoMovies-Desafio-todoMovies-DesafioUITests.release.xcconfig */,
+				C87690FDEEB280BFA8639106 /* Pods-todoMovies-DesafioTests.debug.xcconfig */,
+				A700DFF9B97E7C3756BF0131 /* Pods-todoMovies-DesafioTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		D0A9C27628F50ADA3A197C30 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C7CC0EF51B496AF139DD8E12 /* Pods_todoMovies_Desafio.framework */,
+				0F276F4B9518428D30E282FE /* Pods_todoMovies_Desafio_todoMovies_DesafioUITests.framework */,
+				B7FD04F6AEE1404CAC941EE8 /* Pods_todoMovies_DesafioTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -135,9 +176,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 19BEB77425FF9FF200A413DD /* Build configuration list for PBXNativeTarget "todoMovies-Desafio" */;
 			buildPhases = (
+				701368365317F710A7A6AE3D /* [CP] Check Pods Manifest.lock */,
 				19BEB74625FF9FEF00A413DD /* Sources */,
 				19BEB74725FF9FEF00A413DD /* Frameworks */,
 				19BEB74825FF9FEF00A413DD /* Resources */,
+				C3878AAC944BA630CAE000A0 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -152,6 +195,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 19BEB77725FF9FF200A413DD /* Build configuration list for PBXNativeTarget "todoMovies-DesafioTests" */;
 			buildPhases = (
+				0C99B8E9C8A429C745D71BF2 /* [CP] Check Pods Manifest.lock */,
 				19BEB75C25FF9FF200A413DD /* Sources */,
 				19BEB75D25FF9FF200A413DD /* Frameworks */,
 				19BEB75E25FF9FF200A413DD /* Resources */,
@@ -170,9 +214,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 19BEB77A25FF9FF200A413DD /* Build configuration list for PBXNativeTarget "todoMovies-DesafioUITests" */;
 			buildPhases = (
+				3D7001905BC341D9CF9BCE82 /* [CP] Check Pods Manifest.lock */,
 				19BEB76725FF9FF200A413DD /* Sources */,
 				19BEB76825FF9FF200A413DD /* Frameworks */,
 				19BEB76925FF9FF200A413DD /* Resources */,
+				AC83CA7A0E62DFDF21DCB82F /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -252,6 +298,109 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		0C99B8E9C8A429C745D71BF2 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-todoMovies-DesafioTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		3D7001905BC341D9CF9BCE82 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-todoMovies-Desafio-todoMovies-DesafioUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		701368365317F710A7A6AE3D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-todoMovies-Desafio-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		AC83CA7A0E62DFDF21DCB82F /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-todoMovies-Desafio-todoMovies-DesafioUITests/Pods-todoMovies-Desafio-todoMovies-DesafioUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-todoMovies-Desafio-todoMovies-DesafioUITests/Pods-todoMovies-Desafio-todoMovies-DesafioUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-todoMovies-Desafio-todoMovies-DesafioUITests/Pods-todoMovies-Desafio-todoMovies-DesafioUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C3878AAC944BA630CAE000A0 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-todoMovies-Desafio/Pods-todoMovies-Desafio-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-todoMovies-Desafio/Pods-todoMovies-Desafio-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-todoMovies-Desafio/Pods-todoMovies-Desafio-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		19BEB74625FF9FEF00A413DD /* Sources */ = {
@@ -433,6 +582,7 @@
 		};
 		19BEB77525FF9FF200A413DD /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D1C2F628A29859FD1CB13440 /* Pods-todoMovies-Desafio.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -452,6 +602,7 @@
 		};
 		19BEB77625FF9FF200A413DD /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BA3179FC0FD1C801E0DFF6FF /* Pods-todoMovies-Desafio.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -471,6 +622,7 @@
 		};
 		19BEB77825FF9FF200A413DD /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C87690FDEEB280BFA8639106 /* Pods-todoMovies-DesafioTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -493,6 +645,7 @@
 		};
 		19BEB77925FF9FF200A413DD /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A700DFF9B97E7C3756BF0131 /* Pods-todoMovies-DesafioTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -515,6 +668,7 @@
 		};
 		19BEB77B25FF9FF200A413DD /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A7C8A221339F90F71CCAF469 /* Pods-todoMovies-Desafio-todoMovies-DesafioUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -535,6 +689,7 @@
 		};
 		19BEB77C25FF9FF200A413DD /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = CDE5B39076F9BCF278A738B8 /* Pods-todoMovies-Desafio-todoMovies-DesafioUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
